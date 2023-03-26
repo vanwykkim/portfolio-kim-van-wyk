@@ -23,7 +23,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+.NavBar-myName{
+  font-size: 32px;
+}
 .App-link {
   color: #61dafb;
 }
