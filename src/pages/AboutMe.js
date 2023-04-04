@@ -11,7 +11,7 @@ class AboutMe extends Component {
     return (
       <Container className="AboutMe">
         <Row>
-          <Col md="1">
+          <Col md="1" className="Title">
             <h1>About</h1>
             <h1> Me</h1>
           </Col>
