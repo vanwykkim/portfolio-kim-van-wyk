@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-kim-van-wyk/static/css/main.5783bac4.css",
+    "main.js": "/portfolio-kim-van-wyk/static/js/main.8012f266.js",
+    "static/js/787.2526e01b.chunk.js": "/portfolio-kim-van-wyk/static/js/787.2526e01b.chunk.js",
+    "static/media/laserlights.jpg": "/portfolio-kim-van-wyk/static/media/laserlights.0bcecaa4a81f4d247962.jpg",
+    "static/media/profile-pic.jpg": "/portfolio-kim-van-wyk/static/media/profile-pic.039bb3d0be35d9ced9e1.jpg",
+    "static/media/KimberlyVanWykResume.pdf": "/portfolio-kim-van-wyk/static/media/KimberlyVanWykResume.1c19129c88dabfc4a1c8.pdf",
+    "static/media/linkedin.png": "/portfolio-kim-van-wyk/static/media/linkedin.ee51856dd542b9673655.png",
+    "static/media/email.png": "/portfolio-kim-van-wyk/static/media/email.4350b0043dc798c46006.png",
+    "static/media/phone.png": "/portfolio-kim-van-wyk/static/media/phone.46e71b173ac003b54971.png",
+    "index.html": "/portfolio-kim-van-wyk/index.html",
+    "main.5783bac4.css.map": "/portfolio-kim-van-wyk/static/css/main.5783bac4.css.map",
+    "main.8012f266.js.map": "/portfolio-kim-van-wyk/static/js/main.8012f266.js.map",
+    "787.2526e01b.chunk.js.map": "/portfolio-kim-van-wyk/static/js/787.2526e01b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5783bac4.css",
+    "static/js/main.8012f266.js"
+  ]
+}
