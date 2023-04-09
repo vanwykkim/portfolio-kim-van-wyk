@@ -4,25 +4,37 @@ import React from "react";
 function BoxPic({pic, href, labelText}) {
 
   return (
-   <div className="Header">
-  <img
-    src={pic}
-    alt={pic}
-    className="boxPic"
-  />
-  <div className="boxPic">
-    <h3>
-      <a href={href}>myproject</a>{" "}
-      {/* <a href={repo}>
-        <i className="fab fa-github"></i>
-      </a> */}
-    </h3>
-    <p>{labelText}</p>
-  </div>
-</div>
+  <div className="Header">
+       <a href={href} target="blank">
+        <div>
+          <p>labelText</p>
+        </div>
+        <img
+          className="BoxPic"           src={pic}
+          alt="Profile Pic"
+        />
+      </a>
+    </div>
   );
 }
 
+//first attempt to change
+//    <div className="Header">
+//   <img
+//     src={pic}
+//     alt={pic}
+//     className="boxPic"
+//   />
+//   <div className="boxPic">
+//     <h3>
+//       <a href={href}>myproject</a>{" "}
+//       {/* <a href={repo}>
+//         <i className="fab fa-github"></i>
+//       </a> */}
+//     </h3>
+//     <p>{labelText}</p>
+//   </div>
+// </div>
 
 
 export default BoxPic;
