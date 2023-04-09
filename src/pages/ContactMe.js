@@ -22,7 +22,9 @@ export default function ContactMe() {
               </Col>
               <Col className="contact-me-pair">
                 <EmailPic />
-                <h4>kmvanwyk@msn.com</h4>
+                <a href="mailto:kmvanwyk@msn.com" target="_blank">
+                  kmvanwyk@msn.com
+                </a>
               </Col>
               <Col className="contact-me-pair">
                 <Row>
